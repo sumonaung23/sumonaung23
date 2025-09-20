@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Su Mon Aung
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Susie
 ===================================================================================================================================
 
 Frontend Developer
@@ -6,7 +6,7 @@ Frontend Developer
 
 I am a front-end developer who loves React!
 
-* 🌍  I'm based in Yangon
+* 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [9964sumon@gmail.com](mailto:9964sumon@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
